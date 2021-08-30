@@ -1,3 +1,9 @@
+# Aditya's First CS193 Homework
+
+ - Tools is great because it will teach me a lot of things that will be useful in upcoming classes.
+ - The attendance quizes are nice/easy.
+ - There are no exams :)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
